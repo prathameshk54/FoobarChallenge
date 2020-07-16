@@ -44,13 +44,27 @@ But, numpy doesn't accept 'fractions.Fraction' object and I don't know whether f
 
 Challenge 3:
 
-This question was the one that I had attempted in one of the aptitude tests of the recruiting-company (super-dream)  
+This question was of dynamic programming and the familiar to me because I had already tried it in one of the aptitude-tests.  
 
-<a href="https://ibb.co/7gLWy6v"><img src="https://i.ibb.co/N1bjYHx/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/7gLWy6v"><img src="https://i.ibb.co/N1bjYHx/image.png" alt="image" border="0"></a>  
 
 Write a function called solution(n) that takes a positive integer n and returns the number of different staircases that can be  
 built from exactly n bricks. n will always be at least 3 (so you can have a staircase at all), but no more than 200,  
-because Commander Lambda's not made of money!  
+because Commander Lambda is not made of money!  
 
 Solution:  
+I first tried to use recursion on small numbers.  
+As the algorithm seemed to be the correct, I implemented dynamic programming by creating an 2x2 array (for prev and n) to store  
+the results, and improve the time complexity.  
 
+Logic of recursion was, pass the numbers of bricks in previous step(prev) and number of bricks left to the function rec()  
+This function recursively calls itself for all the possible^ number of bricks in the next step and adds the result to return.  
+^ number of bricks left after constructing a step with n bricks must be greater than n or 0  
+To take care of 0, I have initiated the count to 1 (1 possibilty of constructing step with all remaining bricks)  
+	*if n > prev and its not the first step*  
+
+Code:  
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/F87DFt3/image.png" alt="image" border="0"></a>  
+
+After completing level3, it asked me my personal details along with my cv for the google recruiters to contact if they want.  
