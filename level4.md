@@ -1,5 +1,6 @@
 Level4  
-This time the challenge had time of 2 weeks to solve!  
+
+This time there were 2 challenges and each challenge had time of 2 weeks to solve!  
 Here is the problem  
 
 <a href="https://ibb.co/MNryzgq"><img src="https://i.ibb.co/Yjm45Nv/image.png" alt="image" border="0"></a>
@@ -30,4 +31,12 @@ Then I searched over internet, and one person on github had also given the answe
 And that comment was saying that instead of comparing div(x, y) with 2^m - 1 compare div(x + y, gcd(x, y)) with the same and it covers remaining cases as well!  
 I don't know how he/she arrived at this solution! I am now thinking on it.  
 
+The next task was to find maximum numbr of pairs that will run in an infinite loop. At first, I tried a lot using graphs but wasn't able  to find an efficient algorithm. Then i searched on internet and came across blossom algorithm. If this algo is implemented in this question then you've the solution!!  
+It took me 5-6 days to complete this problem and it was really difficult one, searching and learning different new things while solving the problem is probably the thing that Google is expecting from the participants.  
 
+Challenge 2:  
+
+<a href="https://ibb.co/PzQS7Kd"><img src="https://i.ibb.co/2YNbDxT/image.png" alt="image" border="0"></a>
+
+This was a graph problem. Required search on internet and came to know about the flow networks.  
+And this problem can be solved using Dinitz's algorithm.  
