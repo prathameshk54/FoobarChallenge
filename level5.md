@@ -9,5 +9,15 @@ Disorderly Escape
 <a href="https://ibb.co/6FBcWSb"><img src="https://i.ibb.co/9Wtmr02/image.png" alt="image" border="0"></a>
 
 
+This was also a difficult problem.  
+Solution:  
 
+<a href="https://ibb.co/581ZW32"><img src="https://i.ibb.co/yyN2nCV/image.png" alt="image" border="0"></a>
+
+Yayy!! Foobar Challenge Completed!!  
+Now there is a message to decode.  
+
+<a href="https://ibb.co/kHW7FHV"><img src="https://i.ibb.co/5Mf0VMX/foobar.png" alt="foobar" border="0"></a>
+
+Now in the work of decoding it!  
 
