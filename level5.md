@@ -21,3 +21,10 @@ Now there is a message to decode.
 
 Now in the work of decoding it!  
 
+It says **your** eyes. Therefore message can be decoded with my username.  
+Searched on the net for decoding it, and got the clue!!  
+See the code in decode.py
+
+Wow! After dcoding it, got the dictoinary:  
+{'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}
+
